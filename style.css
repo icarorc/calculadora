@@ -1,0 +1,31 @@
+header {
+    text-align:center;
+    background:blue;
+    color:white;
+}
+
+body {
+    background:gray;
+}
+
+section {
+    background:white;
+    text-align:center;
+    border-radius:15px;
+    margin:auto;
+    padding:15px;
+    width:500px;
+    box-shadow:3px 3px 10px rgba(0, 0, 0, 0.199);
+    
+}
+
+#res {
+    margin:20px;
+}
+
+footer {
+    text-align:center;
+    font:normal 10pt Italic;
+    margin:auto;
+    color:white;
+}
